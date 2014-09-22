@@ -1,5 +1,6 @@
 /*!
- * FreeVault (c) 2014 Copyleft Software AS
+ * FreeVault - Open Source Password Manager
+ * @author Anders Evenrud <andersevenrud@gmail.com>
  */
 "use strict";
 

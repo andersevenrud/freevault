@@ -1,6 +1,7 @@
 <?php
 /*!
- * FreeVault (c) Copyleft Software AS
+ * FreeVault - Open Source Password Manager
+ * @author Anders Evenrud <andersevenrud@gmail.com>
  */
 
 require "../freevault.php";
