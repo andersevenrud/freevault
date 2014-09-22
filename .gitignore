@@ -1,0 +1,7 @@
+*.sw*
+composer.phar
+composer.lock
+public_html/test
+vendor/
+logs/
+config.php

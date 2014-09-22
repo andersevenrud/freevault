@@ -1,0 +1,6 @@
+[submodule "vendor/crypto-js"]
+	path = vendor/crypto-js
+	url = https://github.com/evanvosberg/crypto-js.git
+[submodule "vendor/jsgenphrase"]
+	path = vendor/jsgenphrase
+	url = https://github.com/andersevenrud/jsgenphrase.git
